@@ -7,3 +7,5 @@ Dette er en automatiseret scraper af det bagvedliggende [JSON](https://apps.oden
 ## Credit
 
 Copy 'n paste af dette [Datafordeler scrape](https://github.com/AsgerPetersen/datafordeler_driftsfeed_scraper)
+
+Troubleshooting [Push a commit to a PR using the built-in token](https://github.com/actions/checkout?tab=readme-ov-file#Push-a-commit-using-the-built-in-token)
