@@ -2460,6 +2460,207 @@
       }
     },
     {
+      "id": 14988,
+      "name": "Middelfartvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.217564105988,
+            55.388319709316
+          ],
+          [
+            10.224680150636,
+            55.388616490751
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Blommenslyst",
+        "postal": 5491
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/08/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/09/2025 00:00:00",
+            "to": "05/09/2026 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 14988,
+      "name": "Middelfartvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221091746498,
+          55.38851959549
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Blommenslyst",
+        "postal": 5491
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/08/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/09/2025 00:00:00",
+            "to": "05/09/2026 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 14988,
+      "name": "Middelfartvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.217520458974,
+            55.388442200604
+          ],
+          [
+            10.22455780289,
+            55.388735324961
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Blommenslyst",
+        "postal": 5491
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/08/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/09/2025 00:00:00",
+            "to": "05/09/2026 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
       "id": 14989,
       "name": "Carl Bernhards Vej - Vejarbejde",
       "tags": [
@@ -3451,6 +3652,237 @@
           "tags": [
             115,
             53
+          ]
+        }
+      }
+    },
+    {
+      "id": 14996,
+      "name": "Østre Stationsvej/Jernbanegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.383095402854,
+          55.400441154151
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/10/2025 00:00:00",
+            "to": "06/23/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 14996,
+      "name": "Østre Stationsvej/Jernbanegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.383034944862,
+              55.400445289239
+            ],
+            [
+              10.383064449161,
+              55.400414834255
+            ],
+            [
+              10.383163690894,
+              55.400448334736
+            ],
+            [
+              10.383134186595,
+              55.400478789694
+            ],
+            [
+              10.383034944862,
+              55.400445289239
+            ]
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/10/2025 00:00:00",
+            "to": "06/23/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 14996,
+      "name": "Østre Stationsvej/Jernbanegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.383201777804,
+          55.400487150489
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vf6.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/04/2025 00:00:00",
+            "to": "06/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/10/2025 00:00:00",
+            "to": "06/23/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
           ]
         }
       }
