@@ -3498,7 +3498,7 @@
           "type": "date",
           "value": {
             "from": "06/15/2025 00:00:00",
-            "to": "07/06/2025 23:59:59"
+            "to": "06/27/2025 23:59:59"
           },
           "tags": [
             115,
@@ -3568,7 +3568,7 @@
           "type": "date",
           "value": {
             "from": "06/15/2025 00:00:00",
-            "to": "07/06/2025 23:59:59"
+            "to": "06/27/2025 23:59:59"
           },
           "tags": [
             115,
@@ -3639,7 +3639,7 @@
           "type": "date",
           "value": {
             "from": "06/15/2025 00:00:00",
-            "to": "07/06/2025 23:59:59"
+            "to": "06/27/2025 23:59:59"
           },
           "tags": [
             115,
@@ -3710,11 +3710,1038 @@
           "type": "date",
           "value": {
             "from": "06/15/2025 00:00:00",
-            "to": "07/06/2025 23:59:59"
+            "to": "06/27/2025 23:59:59"
           },
           "tags": [
             115,
             53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.414359772216,
+            55.411246082415
+          ],
+          [
+            10.414437534316,
+            55.411396823708
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414398014545,
+          55.411309728837
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414367437297,
+          55.411255522675
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l1.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413926383933,
+          55.411222633773
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vf3.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414864892029,
+          55.411210452626
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "hf7.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15000,
+      "name": "Eranthisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414505839217,
+          55.411534774336
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl10.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15001,
+      "name": "Billedskærervej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.41731035657,
+            55.382082512753
+          ],
+          [
+            10.417702236188,
+            55.382196490125
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/27/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15001,
+      "name": "Billedskærervej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417680784574,
+          55.382193442602
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/27/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15001,
+      "name": "Billedskærervej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417357563711,
+          55.382096531416
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "l4.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/27/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15002,
+      "name": "Havnegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.403687875776,
+            55.426843081409
+          ],
+          [
+            10.405144611343,
+            55.427008679043
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 15002,
+      "name": "Havnegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404321811621,
+          55.426905180548
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 15002,
+      "name": "Havnegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403678297735,
+          55.426845212327
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l4.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 15002,
+      "name": "Havnegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.405144393444,
+          55.427012027677
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l4.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": 15002,
+      "name": "Havnegade - Vejarbejde",
+      "tags": [
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.407039642596,
+          55.426356633819
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vf1.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "06/12/2025 00:00:00",
+            "to": "06/15/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "06/16/2025 00:00:00",
+            "to": "06/20/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50
           ]
         }
       }
