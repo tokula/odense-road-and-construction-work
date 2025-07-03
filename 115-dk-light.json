@@ -3409,6 +3409,364 @@
           ]
         }
       }
+    },
+    {
+      "id": 15027,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.378781220289,
+          55.422314242168
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "07/03/2025 00:00:00",
+            "to": "07/06/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/07/2025 00:00:00",
+            "to": "07/10/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15028,
+      "name": "Bispeengen - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.379426625374,
+            55.433881809299
+          ],
+          [
+            10.380470470936,
+            55.434081160586
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense N",
+        "postal": 5270
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "07/03/2025 00:00:00",
+            "to": "07/06/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/07/2025 00:00:00",
+            "to": "08/08/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15028,
+      "name": "Bispeengen - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.379429757668,
+          55.433882401279
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense N",
+        "icon": "l4.png",
+        "postal": 5270
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "07/03/2025 00:00:00",
+            "to": "07/06/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/07/2025 00:00:00",
+            "to": "08/08/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15028,
+      "name": "Bispeengen - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.379938483202,
+          55.433974214628
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense N",
+        "postal": 5270
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "07/03/2025 00:00:00",
+            "to": "07/06/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/07/2025 00:00:00",
+            "to": "08/08/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15028,
+      "name": "Bispeengen - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.380456220153,
+          55.434080991462
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense N",
+        "icon": "l4.png",
+        "postal": 5270
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "07/03/2025 00:00:00",
+            "to": "07/06/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/07/2025 00:00:00",
+            "to": "08/08/2025 23:59:59"
+          },
+          "tags": [
+            53,
+            115
+          ]
+        }
+      }
     }
   ]
 }
