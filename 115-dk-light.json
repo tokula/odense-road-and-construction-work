@@ -52,8 +52,8 @@
             "to": "03/09/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -65,8 +65,8 @@
             "to": "07/11/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -132,8 +132,8 @@
             "to": "03/09/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -145,8 +145,8 @@
             "to": "07/11/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -203,8 +203,8 @@
             "to": "03/09/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -216,8 +216,8 @@
             "to": "07/11/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -274,8 +274,8 @@
             "to": "03/09/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -287,539 +287,8 @@
             "to": "07/11/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14977,
-      "name": "Odense Å sti ved OB anlæg - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.373514060473,
-            55.384456469114
-          ],
-          [
-            10.373905241358,
-            55.384385465623
-          ],
-          [
-            10.374148786232,
-            55.384349202107
-          ],
-          [
-            10.374663233888,
-            55.384312938464
-          ],
-          [
-            10.375032305619,
-            55.384237363946
-          ],
-          [
-            10.375386893684,
-            55.384205671207
-          ],
-          [
-            10.375694274935,
-            55.38424772497
-          ],
-          [
-            10.376007020604,
-            55.384354382605
-          ],
-          [
-            10.376149177682,
-            55.384460735198
-          ],
-          [
-            10.376284360755,
-            55.384748403896
-          ],
-          [
-            10.37639808681,
-            55.385111643539
-          ],
-          [
-            10.376334786415,
-            55.385515713186
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Cyklister og fodgængere",
-          "option_id": 141,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/02/2025 00:00:00",
-            "to": "05/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/05/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14977,
-      "name": "Odense Å sti ved OB anlæg - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.375643252696,
-          55.384243763014
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense M",
-        "postal": 5230
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Cyklister og fodgængere",
-          "option_id": 141,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/02/2025 00:00:00",
-            "to": "05/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/05/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14977,
-      "name": "Odense Å sti ved OB anlæg - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.373561196665,
-          55.384453421393
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "l6.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Cyklister og fodgængere",
-          "option_id": 141,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/02/2025 00:00:00",
-            "to": "05/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/05/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14977,
-      "name": "Odense Å sti ved OB anlæg - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.376366972923,
-          55.385544967054
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense M",
-        "icon": "l3.png",
-        "postal": 5230
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Cyklister og fodgængere",
-          "option_id": 141,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/02/2025 00:00:00",
-            "to": "05/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/05/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14977,
-      "name": "Odense Å sti ved OB anlæg - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.375885247922,
-          55.385373100898
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "l4.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Cyklister og fodgængere",
-          "option_id": 141,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/02/2025 00:00:00",
-            "to": "05/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/05/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14984,
-      "name": "Sdr. Boulevard - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.371336539365,
-            55.381970363549
-          ],
-          [
-            10.371403012513,
-            55.382525316813
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/15/2025 00:00:00",
-            "to": "05/18/2025 23:59:59"
-          },
-          "tags": [
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/19/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 14984,
-      "name": "Sdr. Boulevard - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.371361970901,
-          55.382240984189
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "05/15/2025 00:00:00",
-            "to": "05/18/2025 23:59:59"
-          },
-          "tags": [
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "05/19/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            115
+            115,
+            53
           ]
         }
       }
@@ -1082,8 +551,8 @@
             "to": "05/29/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -1095,8 +564,8 @@
             "to": "02/28/2026 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -1152,8 +621,8 @@
             "to": "05/29/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -1165,8 +634,8 @@
             "to": "02/28/2026 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -1223,8 +692,8 @@
             "to": "05/29/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -1236,8 +705,8 @@
             "to": "02/28/2026 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -1294,8 +763,8 @@
             "to": "05/29/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -1307,8 +776,8 @@
             "to": "02/28/2026 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -1762,972 +1231,6 @@
       }
     },
     {
-      "id": 15007,
-      "name": "Sværup Møllevej - Vejarbejde",
-      "tags": [
-        {
-          "id": 16,
-          "name": "Indkørselsforbud"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.248331590057,
-            55.430023410907
-          ],
-          [
-            10.248400926721,
-            55.43014942512
-          ],
-          [
-            10.248406661795,
-            55.430266917114
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense NV",
-        "postal": 5210
-      },
-      "properties": {
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/20/2025 00:00:00",
-            "to": "06/22/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/23/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            115
-          ]
-        },
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            16,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15007,
-      "name": "Sværup Møllevej - Vejarbejde",
-      "tags": [
-        {
-          "id": 16,
-          "name": "Indkørselsforbud"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.248347222623,
-          55.430031628745
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense NV",
-        "icon": "vl2.png",
-        "postal": 5210
-      },
-      "properties": {
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/20/2025 00:00:00",
-            "to": "06/22/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/23/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            115
-          ]
-        },
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            16,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15008,
-      "name": "Roersvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 49,
-          "name": "Ensretning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 16,
-          "name": "Indkørselsforbud"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.365016582158,
-            55.392577988087
-          ],
-          [
-            10.365785443238,
-            55.392548705624
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/20/2025 00:00:00",
-            "to": "06/22/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/23/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15008,
-      "name": "Roersvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 49,
-          "name": "Ensretning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 16,
-          "name": "Indkørselsforbud"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.365746319403,
-          55.392551837123
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "vl13.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/20/2025 00:00:00",
-            "to": "06/22/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/23/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15008,
-      "name": "Roersvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 49,
-          "name": "Ensretning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 16,
-          "name": "Indkørselsforbud"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.365278720856,
-          55.392567240014
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "e5.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/20/2025 00:00:00",
-            "to": "06/22/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/23/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            16,
-            49,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15012,
-      "name": "Allesø- Norden  - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.308924913552,
-          55.460389150989
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15012,
-      "name": "Allesø- Norden  - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.308476149106,
-            55.460889642658
-          ],
-          [
-            10.309468997158,
-            55.459883668079
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15012,
-      "name": "Allesø- Norden  - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.309377470758,
-          55.459952862811
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "icon": "l8.png",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15012,
-      "name": "Allesø- Norden  - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.30847216901,
-          55.460892430792
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "icon": "l8.png",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15013,
-      "name": "Radbyvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.510697662758,
-          55.422489127486
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Agedrup",
-        "postal": 5320
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15013,
-      "name": "Radbyvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.510490333862,
-            55.422570734903
-          ],
-          [
-            10.510881875968,
-            55.422426970744
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Agedrup",
-        "postal": 5320
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15013,
-      "name": "Radbyvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.510483086036,
-          55.422573694582
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Agedrup",
-        "icon": "l6.png",
-        "postal": 5320
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15013,
-      "name": "Radbyvej - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.510881875968,
-          55.422432213913
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Agedrup",
-        "icon": "l6.png",
-        "postal": 5320
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "06/26/2025 00:00:00",
-            "to": "06/29/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "06/30/2025 00:00:00",
-            "to": "07/04/2025 23:59:59"
-          },
-          "tags": [
-            53,
-            115
-          ]
-        }
-      }
-    },
-    {
       "id": 15019,
       "name": "Østre Stationsvej - Vejarbejde",
       "tags": [
@@ -2784,8 +1287,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -2797,8 +1300,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -2854,8 +1357,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -2867,8 +1370,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -2925,8 +1428,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -2938,8 +1441,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -2996,8 +1499,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3009,8 +1512,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3066,8 +1569,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3079,8 +1582,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3137,8 +1640,8 @@
             "to": "07/03/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3150,8 +1653,8 @@
             "to": "07/07/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3249,8 +1752,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3262,8 +1765,8 @@
             "to": "07/10/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3320,8 +1823,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3333,8 +1836,8 @@
             "to": "07/10/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3391,8 +1894,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3404,8 +1907,8 @@
             "to": "07/10/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3461,8 +1964,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3474,8 +1977,8 @@
             "to": "07/10/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3537,8 +2040,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3550,8 +2053,8 @@
             "to": "08/08/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3608,8 +2111,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3621,8 +2124,8 @@
             "to": "08/08/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3678,8 +2181,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3691,8 +2194,8 @@
             "to": "08/08/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
@@ -3749,8 +2252,8 @@
             "to": "07/06/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         },
         "prop90": {
@@ -3762,8 +2265,8 @@
             "to": "08/08/2025 23:59:59"
           },
           "tags": [
-            53,
-            115
+            115,
+            53
           ]
         }
       }
