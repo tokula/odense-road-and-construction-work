@@ -1665,6 +1665,373 @@
           ]
         }
       }
+    },
+    {
+      "id": 15042,
+      "name": "Hjallsevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.396198832555,
+            55.378923602748
+          ],
+          [
+            10.396504103701,
+            55.377326451735
+          ],
+          [
+            10.396516621222,
+            55.37685927386
+          ],
+          [
+            10.396138351798,
+            55.375045287679
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/05/2025 00:00:00",
+            "to": "08/06/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15042,
+      "name": "Hjallsevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396475792513,
+          55.376836075861
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/05/2025 00:00:00",
+            "to": "08/06/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15042,
+      "name": "Hjallsevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39620101441,
+          55.378921317056
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "l1.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/05/2025 00:00:00",
+            "to": "08/06/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15042,
+      "name": "Hjallsevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396081804756,
+          55.375072805264
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "l1.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/05/2025 00:00:00",
+            "to": "08/06/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15042,
+      "name": "Hjallsevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396200120558,
+          55.375070095923
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "l1.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/05/2025 00:00:00",
+            "to": "08/06/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
     }
   ]
 }
