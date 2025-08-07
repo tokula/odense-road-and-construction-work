@@ -974,8 +974,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "07/28/2025 00:00:00",
-            "to": "08/08/2025 23:59:59"
+            "from": "08/07/2025 00:00:00",
+            "to": "08/25/2025 23:59:59"
           },
           "tags": [
             115
@@ -1037,8 +1037,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "07/28/2025 00:00:00",
-            "to": "08/08/2025 23:59:59"
+            "from": "08/07/2025 00:00:00",
+            "to": "08/25/2025 23:59:59"
           },
           "tags": [
             115
@@ -1101,8 +1101,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "07/28/2025 00:00:00",
-            "to": "08/08/2025 23:59:59"
+            "from": "08/07/2025 00:00:00",
+            "to": "08/25/2025 23:59:59"
           },
           "tags": [
             115
@@ -2025,6 +2025,747 @@
           "value": {
             "from": "08/07/2025 00:00:00",
             "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.353020448918,
+          55.391595154111
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.349061565957,
+            55.390223866987
+          ],
+          [
+            10.349186,
+            55.390262
+          ],
+          [
+            10.3497,
+            55.390432
+          ],
+          [
+            10.350217,
+            55.390581
+          ],
+          [
+            10.350709,
+            55.390714
+          ],
+          [
+            10.351103,
+            55.390832
+          ],
+          [
+            10.351222,
+            55.390866
+          ],
+          [
+            10.351674,
+            55.391011
+          ],
+          [
+            10.351797,
+            55.391049
+          ],
+          [
+            10.352184,
+            55.391186
+          ],
+          [
+            10.352258,
+            55.39122
+          ],
+          [
+            10.352423,
+            55.391299
+          ],
+          [
+            10.352565,
+            55.391357
+          ],
+          [
+            10.352926,
+            55.391555
+          ],
+          [
+            10.353415,
+            55.391853
+          ],
+          [
+            10.353939,
+            55.392194
+          ],
+          [
+            10.354271,
+            55.392413
+          ],
+          [
+            10.354804,
+            55.392777
+          ],
+          [
+            10.355758,
+            55.393411
+          ],
+          [
+            10.355802,
+            55.393441
+          ],
+          [
+            10.356092,
+            55.393623
+          ],
+          [
+            10.356234,
+            55.393737
+          ],
+          [
+            10.356345,
+            55.393879
+          ],
+          [
+            10.356367171123,
+            55.393981541442
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "originalcoordinates": [
+          [
+            10.349056146587,
+            55.390229571971
+          ],
+          [
+            10.3563825126,
+            55.393980471533
+          ]
+        ],
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349633666706,
+          55.390503538108
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l8.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.354078709861,
+          55.392405594089
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l7.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.355660617606,
+          55.393498511037
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l7.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.356387495922,
+          55.393984787656
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l1.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349122285879,
+          55.390205281322
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l3.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349067151619,
+          55.390236427435
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l3.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15043,
+      "name": "Roesskovvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349007248842,
+          55.390271297534
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense V",
+        "icon": "l3.png",
+        "postal": 5200
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/09/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/10/2025 00:00:00",
+            "to": "08/12/2025 23:59:59"
           },
           "tags": [
             115,
