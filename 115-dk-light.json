@@ -2,6 +2,154 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "id": 14791,
+      "name": "Ravnebjerggyden - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.264266729355,
+          55.382347037696
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Blommenslyst",
+        "postal": 5491
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "03/31/2026 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 14791,
+      "name": "Ravnebjerggyden - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.265028212401,
+            55.38068822809
+          ],
+          [
+            10.264695882797,
+            55.381134109501
+          ],
+          [
+            10.264599323273,
+            55.381344393688
+          ],
+          [
+            10.264513492584,
+            55.381615628161
+          ],
+          [
+            10.264352560043,
+            55.382127616256
+          ],
+          [
+            10.263718620424,
+            55.384092556653
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Blommenslyst",
+        "postal": 5491
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "03/31/2026 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
       "id": 14892,
       "name": "Hedelundvej - Vejarbejde",
       "tags": [
@@ -2766,6 +2914,400 @@
           "value": {
             "from": "08/10/2025 00:00:00",
             "to": "08/12/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15044,
+      "name": "Højbyvej/Nørre Lyndelse Vej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.429464083158,
+          55.330152782392
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "08/14/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15044,
+      "name": "Højbyvej/Nørre Lyndelse Vej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4283789723,
+            55.324792938122
+          ],
+          [
+            10.428438,
+            55.325111
+          ],
+          [
+            10.428465,
+            55.325257
+          ],
+          [
+            10.428614,
+            55.326185
+          ],
+          [
+            10.428852,
+            55.327452
+          ],
+          [
+            10.428977,
+            55.328097
+          ],
+          [
+            10.429117,
+            55.328762
+          ],
+          [
+            10.429321,
+            55.329782
+          ],
+          [
+            10.429321,
+            55.329782
+          ],
+          [
+            10.429364,
+            55.330001
+          ],
+          [
+            10.429408,
+            55.330097
+          ],
+          [
+            10.429464,
+            55.330173
+          ],
+          [
+            10.429537,
+            55.330229
+          ],
+          [
+            10.429697,
+            55.330289
+          ],
+          [
+            10.42988,
+            55.330336
+          ],
+          [
+            10.431204,
+            55.330613
+          ],
+          [
+            10.432087,
+            55.330791
+          ],
+          [
+            10.433117,
+            55.330992
+          ],
+          [
+            10.433676,
+            55.331107
+          ],
+          [
+            10.433838,
+            55.331139
+          ],
+          [
+            10.433894,
+            55.331151
+          ],
+          [
+            10.434576,
+            55.331285
+          ],
+          [
+            10.435277,
+            55.331443
+          ],
+          [
+            10.435895,
+            55.331574
+          ],
+          [
+            10.436488,
+            55.331665
+          ],
+          [
+            10.436546120489,
+            55.331671141033
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "originalcoordinates": [
+          [
+            10.428413263634,
+            55.324790878256
+          ],
+          [
+            10.436547115522,
+            55.331668093924
+          ]
+        ],
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "08/14/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15044,
+      "name": "Højbyvej/Nørre Lyndelse Vej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.428400933797,
+          55.324776127668
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l1.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "08/14/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15044,
+      "name": "Højbyvej/Nørre Lyndelse Vej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.436556935674,
+          55.331668009207
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l4.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/07/2025 00:00:00",
+            "to": "08/10/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/11/2025 00:00:00",
+            "to": "08/14/2025 23:59:59"
           },
           "tags": [
             115,
