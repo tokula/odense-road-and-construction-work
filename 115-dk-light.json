@@ -2125,8 +2125,8 @@
       }
     },
     {
-      "id": 15047,
-      "name": "Klaregade - Vejarbejde",
+      "id": 15054,
+      "name": "Hunderupvej - Vejarbejde",
       "tags": [
         {
           "id": 53,
@@ -2143,20 +2143,304 @@
         "type": "LineString",
         "coordinates": [
           [
-            10.386692421101,
-            55.392958318947
+            10.389439619574,
+            55.381923177399
           ],
           [
-            10.386825501773,
-            55.392560469495
+            10.389454364886,
+            55.38172517114
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/21/2025 00:00:00",
+            "to": "08/24/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/25/2025 00:00:00",
+            "to": "09/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15054,
+      "name": "Hunderupvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.389428734925,
+          55.382237327035
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "vl9.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/21/2025 00:00:00",
+            "to": "08/24/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/25/2025 00:00:00",
+            "to": "09/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15054,
+      "name": "Hunderupvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38944980764,
+          55.381837592145
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/21/2025 00:00:00",
+            "to": "08/24/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/25/2025 00:00:00",
+            "to": "09/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15055,
+      "name": "Assensvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.323123929556,
+          55.344616438305
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SV",
+        "postal": 5250
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "08/21/2025 00:00:00",
+            "to": "08/24/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "08/25/2025 00:00:00",
+            "to": "09/05/2025 23:59:59"
+          },
+          "tags": [
+            115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15055,
+      "name": "Assensvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.32046035237,
+            55.34380645924
           ],
           [
-            10.3869232531,
-            55.39234855235
+            10.322197079659,
+            55.34433579894
           ],
           [
-            10.387397074067,
-            55.391868602975
+            10.323421954672,
+            55.344726592241
+          ],
+          [
+            10.324626564798,
+            55.345135853383
+          ],
+          [
+            10.325329303887,
+            55.345405133137
+          ],
+          [
+            10.326025080227,
+            55.345704066935
           ]
         ],
         "crs": {
@@ -2165,18 +2449,17 @@
             "code": 4326
           }
         },
-        "postalName": "Odense C",
-        "postal": 5000
+        "postalName": "Odense SV",
+        "postal": 5250
       },
       "properties": {
         "prop51": {
           "id": 51,
           "name": "Trafikanttype",
           "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
+          "value": "Bilister",
+          "option_id": 60,
           "tags": [
-            53,
             115
           ]
         },
@@ -2185,308 +2468,23 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "08/14/2025 00:00:00",
-            "to": "08/17/2025 23:59:59"
+            "from": "08/21/2025 00:00:00",
+            "to": "08/24/2025 23:59:59"
           },
           "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "08/18/2025 00:00:00",
-            "to": "08/20/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15047,
-      "name": "Klaregade - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.386918823169,
-          55.392351429171
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            53,
             115
           ]
         },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "08/14/2025 00:00:00",
-            "to": "08/17/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
         "prop90": {
           "id": 90,
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "08/18/2025 00:00:00",
-            "to": "08/20/2025 23:59:59"
+            "from": "08/25/2025 00:00:00",
+            "to": "09/05/2025 23:59:59"
           },
           "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15047,
-      "name": "Klaregade - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.386692285501,
-          55.392955864638
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "l8.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            53,
             115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "08/14/2025 00:00:00",
-            "to": "08/17/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "08/18/2025 00:00:00",
-            "to": "08/20/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15047,
-      "name": "Klaregade - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.387436747478,
-          55.391885275707
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "l8.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "08/14/2025 00:00:00",
-            "to": "08/17/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "08/18/2025 00:00:00",
-            "to": "08/20/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15047,
-      "name": "Klaregade - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.387349724333,
-          55.391861409392
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense C",
-        "icon": "l8.png",
-        "postal": 5000
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister, cyklister og fodgængere",
-          "option_id": 180,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "08/14/2025 00:00:00",
-            "to": "08/17/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "08/18/2025 00:00:00",
-            "to": "08/20/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
           ]
         }
       }
