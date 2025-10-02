@@ -6591,7 +6591,7 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "10/05/2025 00:00:00",
+            "from": "10/02/2025 00:00:00",
             "to": "10/05/2025 23:59:59"
           },
           "tags": [
@@ -6667,7 +6667,7 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "10/05/2025 00:00:00",
+            "from": "10/02/2025 00:00:00",
             "to": "10/05/2025 23:59:59"
           },
           "tags": [
@@ -6738,7 +6738,7 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "10/05/2025 00:00:00",
+            "from": "10/02/2025 00:00:00",
             "to": "10/05/2025 23:59:59"
           },
           "tags": [
@@ -6809,7 +6809,7 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "10/05/2025 00:00:00",
+            "from": "10/02/2025 00:00:00",
             "to": "10/05/2025 23:59:59"
           },
           "tags": [
@@ -6828,6 +6828,414 @@
           "tags": [
             115,
             53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15535,
+      "name": "Skt. Gertruds Stræde - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.384667018975,
+              55.396216454418
+            ],
+            [
+              10.384884178675,
+              55.396281699169
+            ],
+            [
+              10.38495600209,
+              55.396216877664
+            ],
+            [
+              10.384744812161,
+              55.396149432619
+            ],
+            [
+              10.384667018975,
+              55.396216454418
+            ]
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/02/2025 00:00:00",
+            "to": "10/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/08/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15535,
+      "name": "Skt. Gertruds Stræde - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38479578011,
+          55.396216454418
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/02/2025 00:00:00",
+            "to": "10/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/08/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15535,
+      "name": "Skt. Gertruds Stræde - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.384558615884,
+          55.396434612934
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl8.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/02/2025 00:00:00",
+            "to": "10/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/08/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15535,
+      "name": "Skt. Gertruds Stræde - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.385047793752,
+          55.395973838433
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl16.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/02/2025 00:00:00",
+            "to": "10/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/08/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15535,
+      "name": "Skt. Gertruds Stræde - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.385253092938,
+          55.396350074417
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl12.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/02/2025 00:00:00",
+            "to": "10/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/08/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115,
+            16
           ]
         }
       }
