@@ -2094,6 +2094,374 @@
       }
     },
     {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.352592894519,
+            55.344833610687
+          ],
+          [
+            10.351775884774,
+            55.345269391957
+          ],
+          [
+            10.351797938347,
+            55.345334805317
+          ],
+          [
+            10.351753830873,
+            55.345434789329
+          ],
+          [
+            10.351435542834,
+            55.34579727149
+          ],
+          [
+            10.351445448731,
+            55.345835739496
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351885398969,
+          55.34520431736
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.352593585212,
+          55.344828780807
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l7.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351431199209,
+          55.345832011325
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l8.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.352485104018,
+          55.344941560786
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l3.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15516,
+      "name": "Møllevej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351687967777,
+          55.34531108031
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l7.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/13/2025 00:00:00",
+            "to": "11/01/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
       "id": 15518,
       "name": "Dansestræde - Vejarbejde",
       "tags": [
