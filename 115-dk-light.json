@@ -5433,6 +5433,568 @@
           ]
         }
       }
+    },
+    {
+      "id": 15546,
+      "name": "Tolderlundsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.386921763347,
+          55.404763595008
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "11/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15546,
+      "name": "Tolderlundsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.386859178689,
+            55.404673067412
+          ],
+          [
+            10.386959314274,
+            55.404824341474
+          ],
+          [
+            10.387021534368,
+            55.40498720566
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "11/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15546,
+      "name": "Tolderlundsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.387059450513,
+          55.405256332284
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl10.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "11/07/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15547,
+      "name": "Fredensgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 49,
+          "name": "Ensretning"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.394030213793,
+            55.391706531062
+          ],
+          [
+            10.394190549778,
+            55.391653212288
+          ],
+          [
+            10.394692313362,
+            55.391648557507
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            49,
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        }
+      }
+    },
+    {
+      "id": 15547,
+      "name": "Fredensgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 49,
+          "name": "Ensretning"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.394306371577,
+          55.391649742268
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            49,
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        }
+      }
+    },
+    {
+      "id": 15547,
+      "name": "Fredensgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 49,
+          "name": "Ensretning"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.394032895674,
+          55.391705684705
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l7.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            49,
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        }
+      }
+    },
+    {
+      "id": 15547,
+      "name": "Fredensgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 49,
+          "name": "Ensretning"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.394703149977,
+          55.391645087486
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l5.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            49,
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "10/23/2025 00:00:00",
+            "to": "10/26/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "10/27/2025 00:00:00",
+            "to": "10/31/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            49
+          ]
+        }
+      }
     }
   ]
 }
