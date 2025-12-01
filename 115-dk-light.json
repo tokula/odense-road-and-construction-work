@@ -2,6 +2,736 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.370804293021,
+            55.42309563853
+          ],
+          [
+            10.377230644226,
+            55.422541559112
+          ],
+          [
+            10.383002758026,
+            55.422121427777
+          ],
+          [
+            10.383871793747,
+            55.422127516669
+          ],
+          [
+            10.384805202484,
+            55.422182316653
+          ],
+          [
+            10.386564731598,
+            55.422450226593
+          ],
+          [
+            10.387970209122,
+            55.422858176874
+          ],
+          [
+            10.38881778717,
+            55.423183925192
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370900630951,
+          55.423107816012
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l6.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370809435844,
+          55.42298604102
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l6.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.371007919312,
+          55.423250901148
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l6.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.388871431351,
+          55.42321132446
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l4.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.37899017334,
+          55.422340627292
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.388603210449,
+          55.423887167071
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "hf5.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370267629623,
+          55.422771411682
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "hf1.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Odins Bro - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370943546295,
+          55.4236314442
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense N",
+        "icon": "vf6.png",
+        "postal": 5270
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            50,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/04/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/05/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53
+          ]
+        }
+      }
+    },
+    {
       "id": 14717,
       "name": "Vårlyngen - Vejarbejde",
       "tags": [
@@ -2526,6 +3256,330 @@
           "tags": [
             115,
             53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15569,
+      "name": "Vesterbro - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.379487573809,
+            55.393742750324
+          ],
+          [
+            10.379551052974,
+            55.393752228632
+          ],
+          [
+            10.379573702776,
+            55.393694850403
+          ],
+          [
+            10.379568696477,
+            55.393633494387
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/02/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/03/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15569,
+      "name": "Vesterbro - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.379571914418,
+          55.393685541275
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/02/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/03/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15569,
+      "name": "Vesterbro - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.37934571501,
+          55.393729040402
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl4.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/02/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/03/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15569,
+      "name": "Vesterbro - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.379555821819,
+          55.393758829662
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl9.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "12/01/2025 00:00:00",
+            "to": "12/02/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "12/03/2025 00:00:00",
+            "to": "12/05/2025 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
           ]
         }
       }
