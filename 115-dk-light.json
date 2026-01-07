@@ -1367,294 +1367,6 @@
       }
     },
     {
-      "id": 15568,
-      "name": "Stat-Ene-Vej - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.501647880563,
-            55.36645090223
-          ],
-          [
-            10.502629606189,
-            55.367495927355
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense SØ",
-        "postal": 5220
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "11/27/2025 00:00:00",
-            "to": "11/30/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "12/01/2025 00:00:00",
-            "to": "01/05/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15568,
-      "name": "Stat-Ene-Vej - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.502105665848,
-          55.366917694603
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense SØ",
-        "postal": 5220
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "11/27/2025 00:00:00",
-            "to": "11/30/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "12/01/2025 00:00:00",
-            "to": "01/05/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15568,
-      "name": "Stat-Ene-Vej - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.501644442865,
-          55.366454374322
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense SØ",
-        "icon": "l2.png",
-        "postal": 5220
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "11/27/2025 00:00:00",
-            "to": "11/30/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "12/01/2025 00:00:00",
-            "to": "01/05/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15568,
-      "name": "Stat-Ene-Vej - Vejarbejde",
-      "tags": [
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        },
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.502629448501,
-          55.367492286073
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense SØ",
-        "icon": "l2.png",
-        "postal": 5220
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "11/27/2025 00:00:00",
-            "to": "11/30/2025 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "12/01/2025 00:00:00",
-            "to": "01/05/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
       "id": 15577,
       "name": "Rugårdsvej - Vejarbejde",
       "tags": [
@@ -1943,8 +1655,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "12/17/2025 00:00:00",
-            "to": "01/04/2026 23:59:59"
+            "from": "01/07/2026 00:00:00",
+            "to": "01/18/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1956,8 +1668,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "01/05/2026 00:00:00",
-            "to": "01/09/2026 23:59:59"
+            "from": "01/19/2026 00:00:00",
+            "to": "01/23/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2019,8 +1731,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "12/17/2025 00:00:00",
-            "to": "01/04/2026 23:59:59"
+            "from": "01/07/2026 00:00:00",
+            "to": "01/18/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2032,8 +1744,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "01/05/2026 00:00:00",
-            "to": "01/09/2026 23:59:59"
+            "from": "01/19/2026 00:00:00",
+            "to": "01/23/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2090,8 +1802,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "12/17/2025 00:00:00",
-            "to": "01/04/2026 23:59:59"
+            "from": "01/07/2026 00:00:00",
+            "to": "01/18/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2103,8 +1815,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "01/05/2026 00:00:00",
-            "to": "01/09/2026 23:59:59"
+            "from": "01/19/2026 00:00:00",
+            "to": "01/23/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2161,8 +1873,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "12/17/2025 00:00:00",
-            "to": "01/04/2026 23:59:59"
+            "from": "01/07/2026 00:00:00",
+            "to": "01/18/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2174,8 +1886,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "01/05/2026 00:00:00",
-            "to": "01/09/2026 23:59:59"
+            "from": "01/19/2026 00:00:00",
+            "to": "01/23/2026 23:59:59"
           },
           "tags": [
             115,
