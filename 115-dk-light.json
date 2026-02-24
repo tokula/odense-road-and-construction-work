@@ -1384,8 +1384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.35607552476,
-          55.342214127333
+          10.357053994085,
+          55.341805344596
         ],
         "crs": {
           "type": "EPSG",
@@ -1413,8 +1413,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
+            "from": "02/24/2026 00:00:00",
+            "to": "02/24/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1426,8 +1426,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
+            "from": "02/25/2026 00:00:00",
+            "to": "04/17/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1455,40 +1455,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            10.356593728065,
-            55.341999059278
+            10.357816815376,
+            55.341544819425
           ],
           [
-            10.356246113843,
-            55.34214182803
+            10.356977820265,
+            55.341852934392
           ],
           [
-            10.35604226563,
-            55.342237922086
-          ],
-          [
-            10.35590547297,
-            55.342283070968
-          ],
-          [
-            10.355726838243,
-            55.342296493671
-          ],
-          [
-            10.355723619396,
-            55.342380689977
-          ],
-          [
-            10.35571181761,
-            55.342431939869
-          ],
-          [
-            10.355663001537,
-            55.342501188109
-          ],
-          [
-            10.355537533942,
-            55.342604297621
+            10.356313705051,
+            55.342117728233
           ]
         ],
         "crs": {
@@ -1517,8 +1493,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
+            "from": "02/24/2026 00:00:00",
+            "to": "02/24/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1530,8 +1506,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
+            "from": "02/25/2026 00:00:00",
+            "to": "04/17/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1558,8 +1534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.355527281827,
-          55.3426079583
+          10.357813596856,
+          55.341540548574
         ],
         "crs": {
           "type": "EPSG",
@@ -1588,8 +1564,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
+            "from": "02/24/2026 00:00:00",
+            "to": "02/24/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1601,8 +1577,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
+            "from": "02/25/2026 00:00:00",
+            "to": "04/17/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1629,8 +1605,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.356599092484,
-          55.342000584541
+          10.35632904585,
+          55.342111626871
         ],
         "crs": {
           "type": "EPSG",
@@ -1659,8 +1635,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
+            "from": "02/24/2026 00:00:00",
+            "to": "02/24/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1672,8 +1648,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
+            "from": "02/25/2026 00:00:00",
+            "to": "04/17/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1700,8 +1676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.356158137583,
-          55.342080510869
+          10.356736958092,
+          55.342004855483
         ],
         "crs": {
           "type": "EPSG",
@@ -1730,8 +1706,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
+            "from": "02/24/2026 00:00:00",
+            "to": "02/24/2026 23:59:59"
           },
           "tags": [
             115,
@@ -1743,79 +1719,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15579,
-      "name": "Møllevej - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.355750441813,
-          55.342582028469
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense S",
-        "icon": "l4.png",
-        "postal": 5260
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop89": {
-          "id": 89,
-          "name": "Dato forvarsling",
-          "type": "date",
-          "value": {
-            "from": "02/05/2026 00:00:00",
-            "to": "02/10/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "02/11/2026 00:00:00",
-            "to": "03/20/2026 23:59:59"
+            "from": "02/25/2026 00:00:00",
+            "to": "04/17/2026 23:59:59"
           },
           "tags": [
             115,
@@ -2201,246 +2106,6 @@
           "tags": [
             53,
             115
-          ]
-        }
-      }
-    },
-    {
-      "id": 15593,
-      "name": "Høstlyngen - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.399808407092,
-            55.440646493931
-          ],
-          [
-            10.400124371117,
-            55.440573461433
-          ],
-          [
-            10.400568797395,
-            55.440436829527
-          ]
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "02/04/2026 00:00:00",
-            "to": "02/23/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15593,
-      "name": "Høstlyngen - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.40020129091,
-          55.44055094314
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "02/04/2026 00:00:00",
-            "to": "02/23/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15593,
-      "name": "Høstlyngen - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.399815006723,
-          55.44064831983
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "icon": "l6.png",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "02/04/2026 00:00:00",
-            "to": "02/23/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
-          ]
-        }
-      }
-    },
-    {
-      "id": 15593,
-      "name": "Høstlyngen - Vejarbejde",
-      "tags": [
-        {
-          "id": 53,
-          "name": "Vejlukning"
-        },
-        {
-          "id": 115,
-          "name": "Vejarbejde",
-          "primary": true
-        }
-      ],
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.40055567013,
-          55.440441393869
-        ],
-        "crs": {
-          "type": "EPSG",
-          "properties": {
-            "code": 4326
-          }
-        },
-        "postalName": "Odense N",
-        "icon": "l6.png",
-        "postal": 5270
-      },
-      "properties": {
-        "prop51": {
-          "id": 51,
-          "name": "Trafikanttype",
-          "type": "select",
-          "value": "Bilister",
-          "option_id": 60,
-          "tags": [
-            53,
-            115
-          ]
-        },
-        "prop90": {
-          "id": 90,
-          "name": "Dato aktivt",
-          "type": "date",
-          "value": {
-            "from": "02/04/2026 00:00:00",
-            "to": "02/23/2026 23:59:59"
-          },
-          "tags": [
-            115,
-            53
           ]
         }
       }
