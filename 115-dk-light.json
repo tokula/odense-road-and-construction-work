@@ -48,8 +48,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "04/10/2026 00:00:00",
-            "to": "04/13/2026 23:59:59"
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
           },
           "tags": [
             115,
@@ -61,8 +61,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "04/14/2026 00:00:00",
-            "to": "05/13/2026 23:59:59"
+            "from": "04/27/2026 00:00:00",
+            "to": "06/02/2026 23:59:59"
           },
           "tags": [
             115,
@@ -119,8 +119,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "04/10/2026 00:00:00",
-            "to": "04/13/2026 23:59:59"
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
           },
           "tags": [
             115,
@@ -132,8 +132,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "04/14/2026 00:00:00",
-            "to": "05/13/2026 23:59:59"
+            "from": "04/27/2026 00:00:00",
+            "to": "06/02/2026 23:59:59"
           },
           "tags": [
             115,
@@ -190,8 +190,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "04/10/2026 00:00:00",
-            "to": "04/13/2026 23:59:59"
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
           },
           "tags": [
             115,
@@ -203,8 +203,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "04/14/2026 00:00:00",
-            "to": "05/13/2026 23:59:59"
+            "from": "04/27/2026 00:00:00",
+            "to": "06/02/2026 23:59:59"
           },
           "tags": [
             115,
@@ -270,8 +270,8 @@
           "name": "Dato forvarsling",
           "type": "date",
           "value": {
-            "from": "04/10/2026 00:00:00",
-            "to": "04/13/2026 23:59:59"
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
           },
           "tags": [
             115,
@@ -283,8 +283,8 @@
           "name": "Dato aktivt",
           "type": "date",
           "value": {
-            "from": "04/14/2026 00:00:00",
-            "to": "05/13/2026 23:59:59"
+            "from": "04/27/2026 00:00:00",
+            "to": "06/02/2026 23:59:59"
           },
           "tags": [
             115,
@@ -5247,6 +5247,969 @@
           },
           "tags": [
             115
+          ]
+        }
+      }
+    },
+    {
+      "id": 15627,
+      "name": "Rødegårdsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413519146972,
+          55.388831001082
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15627,
+      "name": "Rødegårdsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413572966791,
+          55.388805101623
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "l7.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15627,
+      "name": "Rødegårdsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413651824128,
+          55.388946178126
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "vf6.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15627,
+      "name": "Rødegårdsvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 50,
+          "name": "Svingrestriktion"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413371878715,
+          55.388730449627
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "icon": "hf2.png",
+        "postal": 5230
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            50,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            50,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15628,
+      "name": "Rugvang - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.340561772529,
+            55.410418974503
+          ],
+          [
+            10.341113090581,
+            55.41040039788
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense NV",
+        "postal": 5210
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "05/15/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15628,
+      "name": "Rugvang - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.340849161148,
+          55.410406793109
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense NV",
+        "postal": 5210
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "05/15/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15628,
+      "name": "Rugvang - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.340613126755,
+          55.410422324405
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense NV",
+        "icon": "vl5.png",
+        "postal": 5210
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "05/15/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15628,
+      "name": "Rugvang - Vejarbejde",
+      "tags": [
+        {
+          "id": 16,
+          "name": "Indkørselsforbud"
+        },
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.341053009033,
+          55.410405879471
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense NV",
+        "icon": "e1.png",
+        "postal": 5210
+      },
+      "properties": {
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            16,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "05/15/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53,
+            16
+          ]
+        },
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "id": 15629,
+      "name": "Rindebækvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.445887225654,
+            55.319954946816
+          ],
+          [
+            10.446219205987,
+            55.31988840626
+          ],
+          [
+            10.446982025969,
+            55.319765092175
+          ],
+          [
+            10.452935457361,
+            55.318906767252
+          ],
+          [
+            10.458405554491,
+            55.318122598443
+          ],
+          [
+            10.462255060902,
+            55.317582920197
+          ],
+          [
+            10.464366553507,
+            55.317164420276
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15629,
+      "name": "Rindebækvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.453574397078,
+          55.318813974827
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15629,
+      "name": "Rindebækvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.461958405213,
+          55.317595435439
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "icon": "l6.png",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15629,
+      "name": "Rindebækvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.445924509591,
+          55.319946400434
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense S",
+        "icon": "l6.png",
+        "postal": 5260
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "04/23/2026 00:00:00",
+            "to": "04/26/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "04/27/2026 00:00:00",
+            "to": "04/27/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
           ]
         }
       }
