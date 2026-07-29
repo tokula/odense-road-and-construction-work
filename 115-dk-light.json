@@ -1780,6 +1780,634 @@
           ]
         }
       }
+    },
+    {
+      "id": 15695,
+      "name": "Niels Bohrs Allé - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.478260874224,
+          55.375613902111
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/13/2026 00:00:00",
+            "to": "08/08/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15695,
+      "name": "Niels Bohrs Allé - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.477605686882,
+            55.375586470386
+          ],
+          [
+            10.479274707248,
+            55.375671815203
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/13/2026 00:00:00",
+            "to": "08/08/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15695,
+      "name": "Niels Bohrs Allé - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.477616072094,
+          55.375584031439
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "icon": "l5.png",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/13/2026 00:00:00",
+            "to": "08/08/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15695,
+      "name": "Niels Bohrs Allé - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.479289769864,
+          55.375665109043
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense SØ",
+        "icon": "l5.png",
+        "postal": 5220
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister, cyklister og fodgængere",
+          "option_id": 180,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/13/2026 00:00:00",
+            "to": "08/08/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15696,
+      "name": "Munkerisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.426860528327,
+            55.386894272816
+          ],
+          [
+            10.422666192317,
+            55.385184778683
+          ],
+          [
+            10.418547391891,
+            55.383556271757
+          ],
+          [
+            10.417189121508,
+            55.383044302249
+          ],
+          [
+            10.416511058938,
+            55.382837988779
+          ],
+          [
+            10.415489137304,
+            55.382589923612
+          ],
+          [
+            10.413876056409,
+            55.382295839413
+          ],
+          [
+            10.412817120814,
+            55.38215443446
+          ],
+          [
+            10.411838650834,
+            55.382054475505
+          ],
+          [
+            10.40796232217,
+            55.381984077387
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "12/01/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15696,
+      "name": "Munkerisvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.418414898992,
+          55.383528235646
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense M",
+        "postal": 5230
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "12/01/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15697,
+      "name": "Thorsgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.377573430669,
+            55.397447012125
+          ],
+          [
+            10.377768158978,
+            55.397258442754
+          ],
+          [
+            10.377580876958,
+            55.396488314639
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "10/23/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15697,
+      "name": "Thorsgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.377672673058,
+          55.396871248118
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "10/23/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15697,
+      "name": "Thorsgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.377580305336,
+          55.39648770541
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l1.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "10/23/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15697,
+      "name": "Thorsgade - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.377572894358,
+          55.397441528689
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "l7.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "07/27/2026 00:00:00",
+            "to": "10/23/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
     }
   ]
 }
