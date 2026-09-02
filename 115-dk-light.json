@@ -2403,6 +2403,223 @@
           ]
         }
       }
+    },
+    {
+      "id": 15716,
+      "name": "Roersvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.371266484326,
+            55.39330711307
+          ],
+          [
+            10.370608806479,
+            55.393208400954
+          ]
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "09/02/2026 00:00:00",
+            "to": "09/06/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "09/07/2026 00:00:00",
+            "to": "09/25/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15716,
+      "name": "Roersvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370929314347,
+          55.393263850361
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "09/02/2026 00:00:00",
+            "to": "09/06/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "09/07/2026 00:00:00",
+            "to": "09/25/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
+    },
+    {
+      "id": 15716,
+      "name": "Roersvej - Vejarbejde",
+      "tags": [
+        {
+          "id": 53,
+          "name": "Vejlukning"
+        },
+        {
+          "id": 115,
+          "name": "Vejarbejde",
+          "primary": true
+        }
+      ],
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370551407468,
+          55.393206268291
+        ],
+        "crs": {
+          "type": "EPSG",
+          "properties": {
+            "code": 4326
+          }
+        },
+        "postalName": "Odense C",
+        "icon": "vl4.png",
+        "postal": 5000
+      },
+      "properties": {
+        "prop51": {
+          "id": 51,
+          "name": "Trafikanttype",
+          "type": "select",
+          "value": "Bilister",
+          "option_id": 60,
+          "tags": [
+            53,
+            115
+          ]
+        },
+        "prop89": {
+          "id": 89,
+          "name": "Dato forvarsling",
+          "type": "date",
+          "value": {
+            "from": "09/02/2026 00:00:00",
+            "to": "09/06/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        },
+        "prop90": {
+          "id": 90,
+          "name": "Dato aktivt",
+          "type": "date",
+          "value": {
+            "from": "09/07/2026 00:00:00",
+            "to": "09/25/2026 23:59:59"
+          },
+          "tags": [
+            115,
+            53
+          ]
+        }
+      }
     }
   ]
 }
